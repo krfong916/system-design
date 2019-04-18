@@ -1,2 +1,2 @@
 # system-design
-Repo for my learning of sys.design
+Repo for learning systems and distributed computing
