@@ -1,2 +1,3 @@
 # system-design
-Repo for learning systems and distributed computing
+
+Articles and notes on distributed computing
